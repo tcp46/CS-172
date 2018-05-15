@@ -1,0 +1,14 @@
+2
+"Tess"
+"Porter"
+"tcp46"
+"https://www.instagram.com/tess.carmel/"
+"https://www.linkedin.com/in/tess-p-46146ba8/"
+"My LinkedIn Page"
+"Anna"
+"Wintour"
+"annawintour"
+"https://www.instagram.com/annawintourfan/"
+"https://www.vogue.com"
+"Anna's Magazine"
+

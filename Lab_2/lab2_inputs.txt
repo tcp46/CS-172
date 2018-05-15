@@ -1,0 +1,16 @@
+Hot Dog
+5.15
+no
+yes
+Soda
+2.50
+yes
+yes
+Pretzel
+0.50
+no
+yes
+Candy Bar
+1.25
+yes
+no
